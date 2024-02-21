@@ -1,4 +1,4 @@
-# Monitoring accessibility in Cologne
+# Dashboard - Monitoring accessibility in Cologne's public transport
 
 An streamlit-based web app for people with a disability to monitor the accessibility of tram stations in Cologne.
 The app will include information about current breakdowns of elevators and escaltors. Furthermore I will add functional elevators and esclators to check if people with a disability can access / leave the tram station.
