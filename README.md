@@ -5,5 +5,6 @@ The app will include information about current breakdowns of elevators and escal
 
 Here you can see a little preview of the web app:
 
-<img width="473" alt="image" src="https://github.com/alerch97/barrierefreiheit-monitoring-kvb/assets/152506794/8dfb33cb-5c32-4b87-9991-df13796e8a0c">
+<img width="795" alt="image" src="https://github.com/alerch97/barrierefreiheit-kvb-dashboard/assets/152506794/f7bd3d4b-8855-4486-a252-a644b7a55020">
+
 
